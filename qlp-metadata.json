@@ -1,0 +1,14 @@
+{
+  "shared_context": {
+    "language": "python",
+    "created_at": "2025-07-15T20:01:10.897789",
+    "updated_at": "2025-07-15T20:01:30.163012",
+    "main_file_name": "main.py",
+    "project_structure": "flat",
+    "architecture_pattern": "monolith"
+  },
+  "agent_tiers_used": [
+    "unknown"
+  ],
+  "total_execution_time": 74.84680414199829
+}
